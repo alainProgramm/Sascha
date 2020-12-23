@@ -1,0 +1,14 @@
+.no-overflow {
+    overflow: auto;
+    text-align: center;
+    padding: 0 2.75rem;
+    display: block;
+    height: 1px;
+    overflow: hidden;
+
+}
+#hallo {
+    text-align: center;
+    background: black;
+
+}
